@@ -18,7 +18,7 @@ Static Function MakeAGrid(xpnts,xstart,xend,ypnts,ystart,yend)
 	duplicate/o freespot SpotWave
 	
 end
-
+//Devin ADD THIS GAEBAGE
 Static  function ZeroSetpointOffset(bank)
 	variable bank
 	variable times=stopmstimer(-2)
